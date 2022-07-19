@@ -1,3 +1,3 @@
 # Our QA Teams
 ## QA Satellite Team
- - S&P
+ - [S&P](qa-team/satelliteS&P)
