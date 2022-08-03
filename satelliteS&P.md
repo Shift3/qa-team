@@ -15,8 +15,7 @@
      - Acceptance Test in Markdown Format. An Acceptance Test will be necessary for all new projects/features, specifically steps for navigating the project / feature.
 
 
-Sample of Acceptance Test
-https://github.com/Shift3/qa-team/issues/97
+[Sample of Acceptance Test](https://github.com/Shift3/qa-team/blob/main/sample_acceptance.md)
 
 ## Scheduling QA
 1. Project Manager (PM) fills out [request form](https://forms.monday.com/forms/654f5d5bcae887b741c606fe3fe50a52?r=use1)
