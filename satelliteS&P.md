@@ -1,9 +1,10 @@
 # QA Sprint Process
-## Project-Under-Test is Prepared
+## PM/Dev Team Prepares Project-Under-Test
+- QA needs access to the Scope of Work (if available), along with any updates to the SOW 
 - Website/Application is deployed to a staging environment. 
 - Ensure that the site is working as intended before QA starts testing.
 - Developer will prepare an Acceptance Test per the Bitwise guidelines.
-- Lead Dev will create the Acceptance Test as an issue in Github with:
+- Lead Dev will create the Acceptance Test as an issue in GitHub with:
   - Short project or feature description
   - Delivery / Testing time frame
   - Associated project board
@@ -13,11 +14,12 @@
   - Testing Steps
      - Acceptance Test in Markdown Format. An Acceptance Test will be necessary for all new projects/features, specifically steps for navigating the project / feature.
 
+
 Sample of Acceptance Test
 https://github.com/Shift3/qa-team/issues/97
 
 ## Scheduling QA
-1. Project Manager (PM) sends an email to qa@bitwiseindustries.com.
+1. Project Manager (PM) fills out [request form](https://forms.monday.com/forms/654f5d5bcae887b741c606fe3fe50a52?r=use1)
   - Provide the following details:
     - Project and client name
     - Billable to the client?
@@ -29,7 +31,7 @@ https://github.com/Shift3/qa-team/issues/97
 
 2. QA Lead will schedule a kickoff meeting with QA Team, devs and PM.
 
-3. If the project doesn’t have a project board in Github, Lead Dev will create a project board for QA using the following column titles as a guide:
+3. If the project doesn’t have a project board in GitHub, Lead Dev will create a project board for QA using the following column titles as a guide:
   - Pending
   - Accepted
   - In Progress
@@ -50,22 +52,18 @@ https://github.com/Shift3/qa-team/issues/97
 {reference} https://github.com/Shift3/qa-team/issues/98
 4. Points of contact are identified.
 5. Identify any known issues to be ignored or that are outside of scope.
-6. QA Team is given write access to the Github repository.
+6. QA Team is given write access to the GitHub repository.
 7. Credentials are given to the team via **Zoho Vault**. (BWTC-QA Chamber)
 8. If QA is billable to the client, such as for time and materials (T&M) projects, PM will add the QA Team to the Tick project.
 9. Add QA to the project’s Slack channel
 Discussions should occur constantly within the “Working” issue, tagging people as necessary.
 10. A timeline for the QA sprints will be established
-We generally ask for up to 2 weeks
+We generally ask for about 2 weeks
 
 ## Sprint Planning Meeting
 1. QA Team meets to review the application, its purpose and the most important functions of the website.
-2. QA Lead sets up project in Proofhub with the following:
-- Timeline
-- Tasks
-- Assignments
-- Notes from kickoff meeting
-3. QA Lead sets up the following in Github repo:
+2. QA Lead makes updates to project in Monday.com
+3. QA Lead sets up the following in GitHub repo:
 - Milestone 
 - Labels 
 4. QA Lead schedules Post-Sprint meeting.
@@ -90,6 +88,7 @@ c. Assigned to Point of Contact (POC)
 
 ## Closing Issues:
 The dev team is responsible for closing any issues.
+Please do not close issues if they are to be re-tested by QA.
 
 ## Contact Us:
 Please keep in contact with us in the project's Slack channel whenever a push or change is being made on the staging server
@@ -112,6 +111,5 @@ Types of testing QA has completed
 Google Lighthouse score
 List of key issues QA has found
 Recommendation for additional sprint or case by case retest
-3. Close Proofhub.
-
+3. Change project to Complete status on Monday.com
 
