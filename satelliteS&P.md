@@ -94,21 +94,21 @@ Please keep in contact with us in the project's Slack channel whenever a push or
 For the following, contact QA via the project’s Slack channel:
 - Pushing Updates
 - Re-testing
-- All other communication can be done via the issue’s comments section
+All other communication can be done via the issue’s comments section
 
 
 ## Post-Sprint Meeting
 1. QA Lead will go over the testing QA has gone through.
 2. QA Lead will note some of the issues we ran into and ask the developers questions relevant to those issues.
-3. Recommendation for additional sprint or case by case retest will be made based upon workload QA will discuss w/ PM/Devs the duration of the Retesting Sprint
+3. Recommendation for additional sprint or case by case retest will be made based upon workload. QA will discuss w/ PM/Devs the duration of the Retesting Sprint.
 
 
 ## After the Post-Sprint Meeting
 1. QA Lead will close the sprint milestone to mark the end of the sprint.
 2. QA Lead will send a Certificate of Completion to the PM and lead dev. This certificate will include:
-Types of testing QA has completed
-Google Lighthouse score
-List of key issues QA has found
-Recommendation for additional sprint or case by case retest
+- Types of testing QA has completed
+- Google Lighthouse score
+- List of key issues QA has found
+- Recommendation for additional sprint or case by case retest
 3. Change project to Complete status on Monday.com
 
