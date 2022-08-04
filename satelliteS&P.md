@@ -1,4 +1,7 @@
 # QA Sprint Process
+## QA Satellite Flow Chart
+![Satellite S P](https://user-images.githubusercontent.com/32716832/182927371-60047315-2401-44cf-9c60-52c3ee1061d1.jpg)
+
 ## PM/Dev Team Prepares Project-Under-Test
 - QA needs access to the Scope of Work (if available), along with any updates to the SOW 
 - Website/Application is deployed to a staging environment. 
@@ -110,4 +113,3 @@ For the following, contact QA via the project’s Slack channel:
 - List of key issues QA has found
 - Recommendation for additional sprint or case by case retest
 3. Change project to Complete status on Monday.com
-
