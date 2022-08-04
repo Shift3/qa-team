@@ -56,8 +56,7 @@
 8. If QA is billable to the client, such as for time and materials (T&M) projects, PM will add the QA Team to the Tick project.
 9. Add QA to the project’s Slack channel
 Discussions should occur constantly within the “Working” issue, tagging people as necessary.
-10. A timeline for the QA sprints will be established
-We generally ask for about 2 weeks
+10. A timeline for the QA sprints will be established. We generally ask for about 2 weeks.
 
 ## Sprint Planning Meeting
 1. QA Team meets to review the application, its purpose and the most important functions of the website.
@@ -94,7 +93,7 @@ Please keep in contact with us in the project's Slack channel whenever a push or
 For the following, contact QA via the project’s Slack channel:
 - Pushing Updates
 - Re-testing
-All other communication can be done via the issue’s comments section
+- All other communication can be done via the issue’s comments section
 
 
 ## Post-Sprint Meeting
