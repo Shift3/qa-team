@@ -68,7 +68,7 @@ We generally ask for about 2 weeks
 4. QA Lead schedules Post-Sprint meeting.
 
 # Testing Process
-## QA Testing:
+## QA Testing
 
 1. If a project board has not been set up by the developer, QA will ask for one to be set up {example} (https://github.com/Shift3/qa-team/projects/9)
 2. QA Testers will create a copy of the Acceptance Test to work from.
@@ -77,7 +77,7 @@ a. Labeled with the QA Sprint, Bug, Defect, Enhancement, etc.
 b. Assigned to relevant milestone and project board
 c. Assigned to Point of Contact (POC)
 
-## QA Re-Testing:
+## QA Re-Testing
 ***If there are multiple issues, please wait until they are all fixed before requesting QA to retest them.***
 1. When issues are ready for retest and deployed to a new test version, please label the issues “Ready for Retest”  
 - Contact QA through the project’s Slack channel.
@@ -85,16 +85,16 @@ c. Assigned to Point of Contact (POC)
 3. If the testing failed, QA will add feedback on the issue and add the “Testing Failed” label.
 - When “Testing Failed”, the retest process restarts.
 
-## Closing Issues:
+## Closing Issues
 The dev team is responsible for closing any issues.
 Please do not close issues if they are to be re-tested by QA.
 
-## Contact Us:
-Please keep in contact with us in the project's Slack channel whenever a push or change is being made on the staging server
-For the following, contact QA via the project’s Slack channel
-Pushing Updates
-Re-testing
-All other communication can be done via the issue’s comments section
+## Contact Us
+Please keep in contact with us in the project's Slack channel whenever a push or change is being made on the staging server.
+For the following, contact QA via the project’s Slack channel:
+- Pushing Updates
+- Re-testing
+- All other communication can be done via the issue’s comments section
 
 
 ## Post-Sprint Meeting
