@@ -80,7 +80,6 @@ b. Assigned to relevant milestone and project board
 c. Assigned to Point of Contact (POC)
 
 ## QA Re-Testing
-***If there are multiple issues, please wait until they are all fixed before requesting QA to retest them.***
 1. When issues are ready for retest and deployed to a new test version, please label the issues “Ready for Retest”  
 - Contact QA through the project’s Slack channel.
 2. If the test is successful, QA Tester adds the “Testing Passed” label to the issue, and adds a comment to update the issue.
